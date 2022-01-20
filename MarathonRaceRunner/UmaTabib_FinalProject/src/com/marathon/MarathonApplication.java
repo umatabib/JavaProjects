@@ -3,7 +3,7 @@ import java.util.*;
 
 /**
  * Main class to accept user choice and inputs to run marathon event.
- * @author Uma Tabib
+ * @author Uma T
  *
  */
 
